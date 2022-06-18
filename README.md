@@ -1,2 +1,3 @@
-# dio-tqi-fullstack-developer-bootcamp
-Study Repository for TQI Fullstack Developer Bootcamp
+# DIO TQI Fullstack Developer Bootcamp
+
+-Study Repository for TQI Fullstack Developer Bootcamp da DIO
