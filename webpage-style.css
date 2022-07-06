@@ -1,0 +1,55 @@
+#imagem_rodrigo{
+    border: 2px solid black;
+    border-radius: 40px;
+    max-width:200px;
+    max-height:150px;
+    width: auto;
+    height: auto;
+}
+
+#imagem_post1{
+    max-width:200px;
+    max-height:150px;
+    width: auto;
+    height: auto;
+}
+
+
+body{
+    background-color: rgb(207, 211, 211);
+}
+
+.posts_section{
+    margin: 10px;
+}
+
+#posts_body{
+    background-color: rgb(255, 255, 255);
+    padding: 14px;
+    border: 3px solid;
+    margin: 10px;
+}
+
+
+#maintitle, .subtitle, .post_title{
+    color: rgb(20, 20, 117);
+}
+
+
+.post_title{
+    margin:0;
+    margin-bottom:10px;
+    font-size: 16px;
+    font-style: italic;
+}
+
+.post_content{
+    margin:0;
+    margin-bottom: 10px;
+    margin-top:10px;
+}
+
+.footer_title{
+    margin:0;
+    margin-bottom: 10px;
+}
