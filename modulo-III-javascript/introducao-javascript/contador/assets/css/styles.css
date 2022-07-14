@@ -1,0 +1,24 @@
+section{
+    background-color: rgba(145, 188, 190, 0.118);
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    
+}
+
+h1, p{
+    font-family: 'Times New Roman', Times, serif;
+    color:blueviolet
+}
+
+
+button{
+    border-radius: 60%;
+    border:2px solid rgb(25, 25, 25);
+    color: red;
+    font-size: 16pt;
+    font-weight: 500;
+    font-style: bold;
+    text-align: center; 
+}

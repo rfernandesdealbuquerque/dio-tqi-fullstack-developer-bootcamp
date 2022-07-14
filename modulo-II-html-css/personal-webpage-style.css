@@ -7,49 +7,59 @@
     height: auto;
 }
 
-#imagem_post1{
-    max-width:200px;
-    max-height:150px;
-    width: auto;
-    height: auto;
-}
-
-
 body{
     background-color: rgb(207, 211, 211);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    max-width: 1000px;
+    width:auto;
+    height: auto;
+    
+}
+
+#maintitle, .subtitle, .post_title, .footer_title{
+    color: rgb(20, 20, 117);
 }
 
 .posts_section{
     margin: 10px;
 }
 
-#posts_body{
+.posts_body{
     background-color: rgb(255, 255, 255);
     padding: 14px;
     border: 3px solid;
-    margin: 10px;
+    margin: 15px;
 }
 
-
-#maintitle, .subtitle, .post_title{
-    color: rgb(20, 20, 117);
-}
-
-
-.post_title{
+.post1_title{
     margin:0;
     margin-bottom:10px;
     font-size: 16px;
     font-style: italic;
 }
 
-.post_content{
+#imagem_post1{
+    max-width:250px;
+    max-height:200px;
+    width: auto;
+    height: auto;
+}
+
+.posts_text{
     margin:0;
     margin-bottom: 10px;
     margin-top:10px;
 }
 
+footer{
+    margin:10px
+}
+
 .footer_title{
     margin:0;
     margin-bottom: 10px;
+}
+
+ul{
+    margin:0;
 }
